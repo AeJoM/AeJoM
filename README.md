@@ -1,7 +1,7 @@
 YDTV Contents Maker (Minecraft Plugins & Mods)
 
 - 📧 E-Mail jumyeongwoo@gmail.com
-- 📞 Discord 애좀#4900
+- 📞 Discord ju_myeongwoo
 
 <!---
 AeJoM/AeJoM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
